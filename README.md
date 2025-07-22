@@ -2,7 +2,6 @@
 # Go Clean Template - Task Management API
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/tu_usuario/tu_repositorio)](https://goreportcard.com/report/github.com/tu_usuario/tu_repositorio)  
-[![Build Status](https://github.com/tu_usuario/tu_repositorio/actions/workflows/go.yml/badge.svg)](https://github.com/tu_usuario/tu_repositorio/actions/workflows/go.yml)
 
 ---
 ## Descripción
